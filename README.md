@@ -9,4 +9,8 @@ client commands:
 ----
 telnet localhost 9000
 
+<<<<<<< HEAD
 test1
+=======
+test2
+>>>>>>> e3738bc9a223bd691fb148738095c57ae4d200cb
