@@ -8,3 +8,5 @@ controlpanel->programs features-> turn windows features on or off
 client commands:
 ----
 telnet localhost 9000
+
+test2
